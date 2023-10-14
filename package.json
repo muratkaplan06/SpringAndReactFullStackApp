@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "materialize-css": "^1.0.0",
+    "primereact": "^10.0.3",
+    "react-bootstrap": "^2.9.0"
+  },
+  "devDependencies": {
+    "@types/materialize-css": "^1.0.12"
+  }
+}
